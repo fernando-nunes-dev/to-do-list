@@ -5,6 +5,10 @@ Este projeto foi desenvolvido sem Tailwind (usando apenas CSS puro) para pratica
 
 ---
 
+Link Vercel: https://to-do-list-25.vercel.app
+
+---
+
 ## 🚀 Funcionalidades
 
 - **Adicionar tarefas**
